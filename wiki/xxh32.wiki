@@ -1,12 +1,10 @@
 #labels xxHash,SMHasher
-#SMHasher result of XXH32
-
-= Introduction =
+= SMHasher result of XXH32 =
 
 This is the dump of SMHasher test set using XXH32() function.
 
 
-= Details =
+= Result Log =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
