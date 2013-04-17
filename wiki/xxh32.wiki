@@ -1,3 +1,4 @@
+#summary SMHasher result of XXH32
 #labels xxHash,SMHasher
 = SMHasher result of XXH32 =
 
