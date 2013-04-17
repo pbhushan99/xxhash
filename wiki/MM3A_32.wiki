@@ -1,4 +1,5 @@
 #summary SMHasher result for MurmurHash3A
+#labels murmurhash,SMHasher
 = SMHasher result for MurmurHash3A =
 
 This is the dump of SMHasher test set
