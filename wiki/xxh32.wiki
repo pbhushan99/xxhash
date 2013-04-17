@@ -1,0 +1,14 @@
+#labels xxHash,SMHasher
+#SMHasher result of XXH32
+
+= Introduction =
+
+This is the dump of SMHasher test set using XXH32() function.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
