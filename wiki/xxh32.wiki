@@ -1,6 +1,6 @@
-#summary SMHasher result of XXH32
+#summary SMHasher result for XXH32
 #labels xxHash,SMHasher
-= SMHasher result of XXH32 =
+= SMHasher result for XXH32 =
 
 This is the dump of SMHasher test set
 run on a Core i5 560M
