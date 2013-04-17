@@ -7,7 +7,7 @@ using XXH32() function.
 
 
 = Result Log =
-
+{
 -------------------------------------------------------------------------------
 --- Testing xxh32 (xxHash32 -- 32-bits output)
 
@@ -278,3 +278,4 @@ Testing distribution - Worst bias is the  17-bit window at bit  11 - 0.080%
 Input vcode 0x385455b6, Output vcode 0x0ceacd33, Result vcode 0x00000001
 Verification value is 0x00000001 - Testing took 465.779000 seconds
 -------------------------------------------------------------------------------
+}
