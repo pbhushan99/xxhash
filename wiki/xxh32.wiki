@@ -1,7 +1,9 @@
 #labels xxHash,SMHasher
 = SMHasher result of XXH32 =
 
-This is the dump of SMHasher test set using XXH32() function.
+This is the dump of SMHasher test set
+run on a Core i5 560M
+using XXH32() function.
 
 
 = Result Log =
