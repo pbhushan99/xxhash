@@ -1,4 +1,4 @@
-summary SMHasher result of MurmurHash3A
+#summary SMHasher result of MurmurHash3A
 = SMHasher result of MurmurHash3A =
 
 This is the dump of SMHasher test set
