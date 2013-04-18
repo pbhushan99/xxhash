@@ -1,4 +1,4 @@
-#summary SMHasher result for MurmurHash3A
+#summary MurmurHash3A : Q.Score 10
 #labels murmurhash,SMHasher
 = SMHasher result for MurmurHash3A =
 
