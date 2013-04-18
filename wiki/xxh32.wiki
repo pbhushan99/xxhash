@@ -1,4 +1,4 @@
-#summary SMHasher result for XXH32
+#summary xxHash 32-bits : Q.Score 10
 #labels xxHash,SMHasher
 = SMHasher result for XXH32 =
 
