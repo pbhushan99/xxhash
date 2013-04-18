@@ -8,8 +8,8 @@ using FNV hash function (32-bits version).
 The function proves overall pretty bad,
 with some serious bias flaws.
 It also fails a few collisions test,
-most notably Keyset 'Combination 0x8000000',
-and performs overall "reasonably poorly",
+most notably Keyset 'Combination 0x8000000', and the cyclic tests.
+Overall, it performs "reasonably poorly",
 which makes it less than ideal, but still usable as a hash function.
 
 = Result Log =
